@@ -1,3 +1,3 @@
 # Construction-Page
 
-![alt text](https://github.com/nishchalpro/Construction-Page/blob/main/ConstructionPage.JPG?raw=true)
+![alt text](https://raw.githubusercontent.com/nishchalpro/Construction-Page/main/images/ConstructionPage.JPG)
